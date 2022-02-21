@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/result_container_tests[1]_tests.cmake")
+  include("C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/result_container_tests[1]_tests.cmake")
+else()
+  add_test(result_container_tests_NOT_BUILT result_container_tests_NOT_BUILT)
+endif()

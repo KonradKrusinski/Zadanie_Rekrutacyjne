@@ -1,0 +1,82 @@
+[
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\result_container.dir\\src\\result_container.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\src\\result_container.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/src/result_container.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\threads_pool_tests.dir\\tests\\threads_pool_tests.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\tests\\threads_pool_tests.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/tests/threads_pool_tests.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\directory_traverser.dir\\src\\directory_traverser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\src\\directory_traverser.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/src/directory_traverser.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\lib_program.dir\\src\\program.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\src\\program.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/src/program.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\lib_file.dir\\src\\file.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\src\\file.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/src/file.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\threads_pool.dir\\src\\threads_pool.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\src\\threads_pool.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/src/threads_pool.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\file_tests.dir\\tests\\file_tests.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\tests\\file_tests.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/tests/file_tests.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\result_container_tests.dir\\tests\\result_container_tests.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\tests\\result_container_tests.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/tests/result_container_tests.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I..\\Include -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /FoCMakeFiles\\directory_traverser_test.dir\\tests\\directory_traverser_tests.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\tests\\directory_traverser_tests.cpp",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/tests/directory_traverser_tests.cpp"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googlemock\\include -I_deps\\googletest-src\\googlemock -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\__\\googletest\\src\\gtest-all.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googlemock\\include -I_deps\\googletest-src\\googlemock -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock-all.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googlemock\\include -I_deps\\googletest-src\\googlemock -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googlemock\\include -I_deps\\googletest-src\\googlemock -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\__\\googletest\\src\\gtest-all.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googlemock\\include -I_deps\\googletest-src\\googlemock -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build",
+  "command": "\"F:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP -I_deps\\googletest-src\\googletest\\include -I_deps\\googletest-src\\googletest /DWIN32 /D_WINDOWS /W4 /GR  /MDd /Zi /Ob0 /Od /RTC1 -GS -W4 -WX -wd4251 -wd4275 -nologo -J -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -utf-8 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1  -std:c++17 /Fo_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Stacjonar\\Desktop\\Zadanie_rekrutacyjne\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/Stacjonar/Desktop/Zadanie_rekrutacyjne/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
